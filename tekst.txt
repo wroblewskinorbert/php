@@ -1,8 +1,0 @@
-taki tam tekst
-<<<<<<< HEAD
-I co teraz
-teraz to nawet ja nie wiem
-=======
-i coś tam jeszcze
->>>>>>> d06f286c5d25df0df5c8e9fa642aef228273fcea
-teraz to jest dopiero ciekawie
